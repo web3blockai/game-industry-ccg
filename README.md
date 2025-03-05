@@ -1,6 +1,6 @@
-# CCG (Сollectible card game) | TCG (Trading card game) projects available on GitHub
+# CCG (Сollectible card game) | TCG (Trading card game)
 
-## Lists
+## Avaialbe projects on Github
 
 - [Basic](./basic/index.md)
 - [NFT related](./NFT/index.md)
