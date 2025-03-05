@@ -17,7 +17,6 @@ Add blockchain functionality such as:
 - creating `ZK Proofs`
 - token withdrawal to blockchain
 
-
 **Job Keywods**:
 
 - `Web3`
