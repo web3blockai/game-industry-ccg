@@ -11,9 +11,13 @@ Some open source `CCG` (`TCG`) projects related to `NFT`:
 | 5 | [collectible_onePiece_TCG](https://github.com/Skullriver/collectible_onePiece_TCG) | One Piece Collectible Card Game based on NFT Solidity | `DAAR`, `Metamask` |
 | 6 | [AstralDuelists](https://github.com/AYUSHMAN0503/AstralDuelists) | A decentralized CCG utilizing blockchain technology for NFT-based cards and in-game assets | `Tron`, `Hackaton` |
 | 7 | [Flash-and-Code](https://github.com/TabithaSona/Flash-and-Code) | A decentralized card game built on the Avalanche blockchain with NFT battle cards | `need to test` |
-| 8 | [NFT-CARD-GAME](https://github.com/Devhazeleth/NFT-CARD-GAME) | A blockchain-based card game where players can collect, trade, and battle with unique NFT cards |  |
-| 9 | [Web3-NFT-Game](https://github.com/MustafaTahir57/Web3-NFT-Game) | An NFT Card Game on Avalanche with React.js frontend | `need to test` |
+| 8 | [NFT-CARD-GAME](https://github.com/Devhazeleth/NFT-CARD-GAME) | A blockchain-based card game where players can collect, trade, and battle with unique NFT cards | `?` |
+| 9 | [Web3-NFT-Game](https://github.com/MustafaTahir57/Web3-NFT-Game) | NFT Card Game on Avalanche! React.js, sound effects, animations. Collect unique NFT cards, battle opponents | `need to test` |
 | 10 | [introduce](https://github.com/Viewforview/introduce) | ~~Information about the VIEW FOR VIEW (VIE) digital advertising platform with NFT features~~ |  |
+| 11 | [GravelMine-Cards](https://github.com/aspectxlol/GravelMine-Cards) | A Collectible NFT Trading Battling Card Game Made for gravelmine |  |
+| 12 | [NFT_MemoryCards](https://github.com/DoctorNasa/NFT_MemoryCards) | NFT based minted memory card game. Solidity, Web3.js & React.js |
+| 13 | [pokemon-nft-complete](https://github.com/monikkacha/pokemon-nft-complete) | |
+| 14 | [Catch-em-all](https://github.com/priyanshu-kun/Catch-em-all) | Memory card game for collecting pokemon NFT tokens |
 
  ## More projects:
  [here](https://github.com/search?q=collectible+card+game+NFT&sort=updated&order=desc).
