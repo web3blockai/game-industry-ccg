@@ -8,7 +8,11 @@
 
 I would like to move browser game from `web2` to `web3`. 
 
-Add blockchain functionality such as connecting a wallet, on-chain transactions in the game, creating zk proofs
+Add blockchain functionality such as:
+
+- connecting a wallet,
+- on-chain transactions in the game | creating zk proofs
+- token withdrawal to blockchain
 
 
 **Job Keywods**:
