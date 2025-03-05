@@ -44,5 +44,8 @@ Add blockchain functionality such as:
 - `SDK`
 - `Research & Development`
 - `Time & Cost Estimate`
+- `Timeline`
+- `Milestones`
+- `Product roadmap`
 
 .
