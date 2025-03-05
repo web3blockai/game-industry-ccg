@@ -5,8 +5,7 @@
 - [Basic](./basic/index.md)
 - [NFT related](./NFT/index.md)
 
-## Wikis
+## Public Wikis
 
-https://en.wikipedia.org/wiki/Collectible_card_game
-
-https://en.wikipedia.org/wiki/List_of_collectible_card_games
+- [What CCG (TCG)](https://en.wikipedia.org/wiki/Collectible_card_game)
+- [List of CCG (TCG)](https://en.wikipedia.org/wiki/List_of_collectible_card_games)
