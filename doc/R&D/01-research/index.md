@@ -1,17 +1,17 @@
 # 01 | Research | 2025-03-05
 
 
-Job Title: Research for available `Web2` games in open source on Github to migrate the best and simple selected sample to`Web3`& `ZP Proofs`
+**Job Title**: Research for available `Web2` games in open source on Github to migrate the best and simple selected sample to`Web3`& `ZP Proofs`
 
 
-Job Description: 
+**Job Description**: 
 
 I would like to move browser game from `web2` to `web3`. 
 
 Add blockchain functionality such as connecting a wallet, on-chain transactions in the game, creating zk proofs
 
 
-Job Keywods:
+**Job Keywods**:
 
 - `Web3`
 - `WebAssembly`
