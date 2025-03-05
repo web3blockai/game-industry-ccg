@@ -42,3 +42,4 @@ Add blockchain functionality such as:
 - `Metamask`
 - `API`
 - `SDK`
+- `Research & Development`
